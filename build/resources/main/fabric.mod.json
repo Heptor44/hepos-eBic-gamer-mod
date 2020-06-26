@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "hepo",
+  "version": "1.0.0",
+
+  "name": "hepo's ebic gamer mod",
+  "description": "bottom text",
+  "authors": [
+    "hepor"
+  ],
+  "contact": {
+    "homepage": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "sources": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/hepo/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.hepo.Hepo"
+    ]
+  },
+  "mixins": [
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "fabric": "*",
+    "minecraft": "1.15.x"
+  },
+  "suggests": {
+    "flamingo": "*"
+  }
+}
