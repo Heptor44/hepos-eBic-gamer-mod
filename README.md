@@ -1,11 +1,14 @@
-# Fabric Example Mod
+# should note this mod is 1.15.2 only
 
-## Setup
+# hepo's eBic gamer mod
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+## setup
 
-## License
+so what you do is
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
-"# hepos-eBic-gamer-mod" 
-"# hepos-eBic-gamer-mod" 
+if you know how to build gradle then do that
+
+if not i did it for you
+
+look in heposmod\build\libs and put hepo-mod-1.0.0.jar in your mods folder
+
